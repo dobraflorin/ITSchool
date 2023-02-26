@@ -23,9 +23,8 @@ public class UtilityClassesPractice {
         LocalDateTime localDateTime = LocalDateTime.now();
 //        System.out.println(localDatenow);
 
-        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern();
 
-        Date utilDate - new Date();
+        Date utilDate = new Date();
 //        System.out.println("Util Date: " + utilDate);
 
         long timestampNow = 1677177435;

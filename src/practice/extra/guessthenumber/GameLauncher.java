@@ -1,6 +1,6 @@
 package practice.extra.guessthenumber;
 
-public class GameLuncher {
+public class GameLauncher {
 
     public static void main(String[] args) {
         GuessGame guessGame = new GuessGame();
