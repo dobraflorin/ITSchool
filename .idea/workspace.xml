@@ -4,27 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengegabriel/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/extra/guessthenumber/GameLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/extra/guessthenumber/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/extra/guessthenumber/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20feb/AdvanceFlowControl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20feb/BreakStatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20feb/JavaCoreApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20feb/NestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20feb/PracticeWithStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23feb/ApiPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23feb/StringBuilderPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23feb/UtilityClassesPractice.java" afterDir="false" />
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update3">
+      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session6/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session7/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session8/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27feb/ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27feb/ConvertNumberToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27feb/PracticeWithList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27feb/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27feb/kata/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,15 +43,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/ITSCHOOL2023/itschool2023/src/practice/extra"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ITSCHOOL2023/itschool2023/src/trainer&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ITSCHOOL2023\itschool2023\src\trainer" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src\practice\extra" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src\practice\challenge" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src\session" />
@@ -73,11 +77,39 @@
       <option name="project" value="LOCAL" />
       <updated>1677421970249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update1">
+      <created>1677423102601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677423102601</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update2">
+      <created>1677423336604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677423336604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update1" />
+    <MESSAGE value="update2" />
+    <MESSAGE value="update3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/session/session27feb/PracticeWithList.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
