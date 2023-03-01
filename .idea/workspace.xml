@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update3">
-      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session5/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session6/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session7/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/itschool2023/trainer/itschool/practice/session8/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27feb/ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27feb/ConvertNumberToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27feb/PracticeWithList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27feb/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27feb/kata/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Emag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/StoreService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -58,8 +54,29 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src\session" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ITSCHOOL2023\itschool2023\src\practice\challenge\challengerazvan" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Emag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.challenge.challengerazvan.Emag" />
+      <module name="itschool2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.challenge.challengerazvan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Emag" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -91,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677423336604</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update3">
+      <created>1677526232490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677526232490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
