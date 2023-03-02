@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update3">
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Emag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengerazvan/StoreService.java" afterDir="false" />
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update4">
+      <change afterPath="$PROJECT_DIR$/src/practice/shoppinglist/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/PracticeWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/PracticeWithParameterList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/PracticeWithVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +61,7 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PracticeWithMethods">
     <configuration name="Emag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.challenge.challengerazvan.Emag" />
       <module name="itschool2023" />
@@ -72,8 +75,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session02mar.Practice" />
+      <module name="itschool2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session.session02mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeWithMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session02mar.PracticeWithMethods" />
+      <module name="itschool2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session.session02mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticeWithMethods" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Emag" />
       </list>
     </recent_temporary>
@@ -115,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677526232490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update4">
+      <created>1677697575778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677697575778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,7 +161,8 @@
     <MESSAGE value="update1" />
     <MESSAGE value="update2" />
     <MESSAGE value="update3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update3" />
+    <MESSAGE value="update4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
