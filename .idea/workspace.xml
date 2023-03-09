@@ -4,15 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update4">
-      <change afterPath="$PROJECT_DIR$/src/practice/shoppinglist/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/PracticeWithMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/PracticeWithParameterList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/PracticeWithVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session02mar/Vehicle.java" afterDir="false" />
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update5">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeadrian/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeadrian/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeadrian/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeadrian/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/ConstructorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/ThisPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/practice/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/practice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/practice/UniversityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/inheritanceencapsulation/practice/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/oopconcepts/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/oopconcepts/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/oopconcepts/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/oopconcepts/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/oopconcepts/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/service/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/service/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/service/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session06mar/service/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +60,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/ITSCHOOL2023/itschool2023/src/trainer&quot;
   }
 }</component>
@@ -61,13 +76,39 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PracticeWithMethods">
+  <component name="RunManager" selected="Application.GameLauncher">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session06mar.oopconcepts.Dog" />
+      <module name="itschool2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session.session06mar.oopconcepts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Emag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.challenge.challengerazvan.Emag" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice.challenge.challengerazvan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.challenge.challengeadrian.GameLauncher" />
+      <module name="itschool2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.challenge.challengeadrian.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameLauncher" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.PracticeWithMethods" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Emag" />
@@ -153,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677697575778</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update5">
+      <created>1677784452989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677784452989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,7 +212,8 @@
     <MESSAGE value="update2" />
     <MESSAGE value="update3" />
     <MESSAGE value="update4" />
-    <option name="LAST_COMMIT_MESSAGE" value="update4" />
+    <MESSAGE value="update5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
