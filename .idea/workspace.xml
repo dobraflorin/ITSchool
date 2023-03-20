@@ -5,39 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update8">
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/LibraryOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/Reducible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeiulian/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/abstractpractice/MainAbstractPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/interfacepractice/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/interfacepractice/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/interfacepractice/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/interfacepractice/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/interfacepractice/MainInterfacePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/CarUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/Fee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/LargeCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/MediumCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/SmallCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session09mar/parkingapp/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/PracticePolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/PracticeWithOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/PrimitiveCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/ooppractice/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/ooppractice/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/ooppractice/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/ooppractice/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session13mar/ooppractice/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/DoubleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codewars/PaperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session16mar/JavaBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session16mar/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session16mar/UtilClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/ListExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/ListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/TestClassForImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session20mar/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session/session09mar/abstractpractice/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session/session09mar/abstractpractice/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +31,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
-        <option value="Class" />
         <option value="HTML File" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,15 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/ITSCHOOL2023/itschool2023/src/trainer"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ITSCHOOL2023/itschool2023/src/trainer&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ITSCHOOL2023\itschool2023\src\trainer" />
@@ -90,13 +73,13 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LibraryOP">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.challenge.challengeiulian.Client" />
+  <component name="RunManager" selected="Application.DoubleChar">
+    <configuration name="DoubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.DoubleChar" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.challenge.challengeiulian.*" />
+          <option name="PATTERN" value="codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.challenge.challengeiulian.LibraryOP" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.Factorial" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.challenge.challengeiulian.*" />
+          <option name="PATTERN" value="codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainInterfacePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session09mar.interfacepractice.MainInterfacePractice" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session20mar.HashSetExample" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session.session09mar.interfacepractice.*" />
+          <option name="PATTERN" value="session.session20mar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeWithOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session13mar.PracticeWithOverloading" />
+    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.MaxMin" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session.session13mar.*" />
+          <option name="PATTERN" value="codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session13mar.PrimitiveCasting" />
+    <configuration name="PaperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.PaperTest" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session.session13mar.*" />
+          <option name="PATTERN" value="codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LibraryOP" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.PrimitiveCasting" />
-        <item itemvalue="Application.PracticeWithOverloading" />
-        <item itemvalue="Application.MainInterfacePractice" />
+        <item itemvalue="Application.DoubleChar" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.MaxMin" />
+        <item itemvalue="Application.PaperTest" />
+        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678382016509</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update8">
+      <created>1678986255799</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678986255799</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
