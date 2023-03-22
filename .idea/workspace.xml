@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update8">
-      <change afterPath="$PROJECT_DIR$/src/codewars/DoubleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codewars/PaperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session16mar/JavaBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session16mar/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session16mar/UtilClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/ListExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/ListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/TestClassForImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session20mar/User.java" afterDir="false" />
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update1">
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/TableDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +23,8 @@
       <list>
         <option value="module-info" />
         <option value="HTML File" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -221,12 +212,18 @@
       <option name="project" value="LOCAL" />
       <updated>1678986255799</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update1">
+      <created>1679341746498</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679341746499</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <MESSAGE value="update1" />
     <MESSAGE value="update2" />
     <MESSAGE value="update3" />
     <MESSAGE value="update4" />
@@ -234,7 +231,8 @@
     <MESSAGE value="update6" />
     <MESSAGE value="update7" />
     <MESSAGE value="update8" />
-    <option name="LAST_COMMIT_MESSAGE" value="update8" />
+    <MESSAGE value="update1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
