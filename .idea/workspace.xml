@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update1">
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/LightBulb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/SmartDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/TableDB.java" afterDir="false" />
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update3">
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/GenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/GenericsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/UserCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/UserGenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/BuyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/Closet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/IkeaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/StockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27mar/FunctionalInterfacesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session27mar/PracticeLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +34,8 @@
       <list>
         <option value="module-info" />
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,13 +75,13 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleChar">
-    <configuration name="DoubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.DoubleChar" />
+  <component name="RunManager" selected="Application.FunctionalInterfacesPractice">
+    <configuration name="FunctionalInterfacesPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session27mar.FunctionalInterfacesPractice" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="session.session27mar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.Factorial" />
+    <configuration name="GenericsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session23mar.Practice.Practice.GenericsPractice" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="session.session23mar.Practice.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session20mar.HashSetExample" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session23mar.Practice.Practice.Practice" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session.session20mar.*" />
+          <option name="PATTERN" value="session.session23mar.Practice.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.MaxMin" />
+    <configuration name="PracticeLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session27mar.PracticeLambda" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="session.session27mar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codewars.PaperTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session23mar.Practice.Practice.Test" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codewars.*" />
+          <option name="PATTERN" value="session.session23mar.Practice.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleChar" />
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.MaxMin" />
-        <item itemvalue="Application.PaperTest" />
-        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.FunctionalInterfacesPractice" />
+        <item itemvalue="Application.PracticeLambda" />
+        <item itemvalue="Application.GenericsPractice" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -219,20 +230,27 @@
       <option name="project" value="LOCAL" />
       <updated>1679341746499</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update2">
+      <created>1679510853139</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679510853139</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <MESSAGE value="update2" />
-    <MESSAGE value="update3" />
     <MESSAGE value="update4" />
     <MESSAGE value="update5" />
     <MESSAGE value="update6" />
     <MESSAGE value="update7" />
     <MESSAGE value="update8" />
     <MESSAGE value="update1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update1" />
+    <MESSAGE value="update2" />
+    <MESSAGE value="update3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
