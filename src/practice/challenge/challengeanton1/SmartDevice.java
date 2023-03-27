@@ -4,5 +4,4 @@ public interface SmartDevice {
     boolean isConnection();
     void registerDevice();
     void status();
-
 }

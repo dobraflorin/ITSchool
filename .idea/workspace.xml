@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update3">
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/GenderEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/GenericsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/UserCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/Practice/UserGenderEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/BuyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/Closet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/IkeaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/StockService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session23mar/problem/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27mar/FunctionalInterfacesPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session/session27mar/PracticeLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/LightBulb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/LightBulb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679510853139</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update3">
+      <created>1679937438655</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679937438655</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
