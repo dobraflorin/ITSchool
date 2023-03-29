@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update3">
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update4">
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/BookAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/Device.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/LightBulb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/challenge/challengeanton1/LightBulb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,7 +65,7 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionalInterfacesPractice">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FunctionalInterfacesPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session.session27mar.FunctionalInterfacesPractice" />
       <module name="itschool2023" />
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session23mar.Practice.Practice.Practice" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.challenge.challengeandreirotariu.Main" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session.session23mar.Practice.Practice.*" />
+          <option name="PATTERN" value="practice.challenge.challengeandreirotariu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FunctionalInterfacesPractice" />
         <item itemvalue="Application.PracticeLambda" />
         <item itemvalue="Application.GenericsPractice" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -229,12 +234,18 @@
       <option name="project" value="LOCAL" />
       <updated>1679937438655</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update4">
+      <created>1679940799843</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679940799843</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <MESSAGE value="update4" />
     <MESSAGE value="update5" />
     <MESSAGE value="update6" />
     <MESSAGE value="update7" />
@@ -242,7 +253,8 @@
     <MESSAGE value="update1" />
     <MESSAGE value="update2" />
     <MESSAGE value="update3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update3" />
+    <MESSAGE value="update4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
