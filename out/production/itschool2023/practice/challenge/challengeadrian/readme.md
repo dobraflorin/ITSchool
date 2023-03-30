@@ -1,0 +1,13 @@
+We want to build an app whit name: QuizGame
+- first class question with inheritance
+- second class User
+- third class QuizGame
+- and the last GameLaucnher
+- question idea
+- which is the capital of England
+- when was the last bigger earthquake in Romania
+- who is the president of France?
+- second class user
+- just one user
+- at the third class is the logical
+- we will use Switch (we will use char)
