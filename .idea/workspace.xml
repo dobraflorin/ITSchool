@@ -4,12 +4,129 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update4">
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/BookAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/challenge/challengeandreirotariu/readme.md" afterDir="false" />
+    <list default="true" id="873828ad-ab28-47f4-9b7a-0910bbcf2d95" name="Changes" comment="update5">
+      <change afterPath="$PROJECT_DIR$/src/session/session30mar/StreamPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session/session30mar/StreamsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/codewars/AbbreviateTwoWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/codewars/TestClassForImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/PracticeWithMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/PracticeWithParameterList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/PracticeWithVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session10/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/inheritancepractice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/inheritancepractice/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/inheritancepractice/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/inheritancepractice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/inheritancepractice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/studentproblem/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/studentproblem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/studentproblem/UniversityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/inheritanceencapsulation/studentproblem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/oopconcepts/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/oopconcepts/ConstructorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/oopconcepts/ThisPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/oopconcepts/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/serviceapplication/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/serviceapplication/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/serviceapplication/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/serviceapplication/Timesheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session11/serviceapplication/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/abstractpractice/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/abstractpractice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/abstractpractice/MainAbstractPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/abstractpractice/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/interfacepractice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/interfacepractice/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/interfacepractice/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/interfacepractice/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/interfacepractice/MainInterfacePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/CarUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/Fee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/FeeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/LargeCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/MediumCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/SmallCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session12/parkingapp/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/PracticePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/PracticeWithOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/PrimitiveCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session13/ooppractice/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session14/JavaBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session14/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session14/UtilClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/HashmapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/HashsetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/ListExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/ListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/SetExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session15/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/GenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/GenericsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/UserGender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/practice/UtilClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/BuyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/Closet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/IkeaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session16/problem/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session17/FunctionalInterfacesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session17/PracticeLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session5/TestAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session9/kata/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session9/practice/ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session9/practice/ConvertNumberToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session9/practice/PracticeWithList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session9/practice/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/carservice/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/carservice/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/carservice/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/carservice/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/carservice/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/carservice/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/carservice/ServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/carservice/ServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/carservice/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/carservice/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/feb05/LivingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/feb05/LivingRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/feb05/ManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/feb05/ManagementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/feb11/BankAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/feb11/BankAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/feb11/UserBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/feb11/UserBankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/feb11/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/feb11/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/extra/feb15/TestFlowControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/extra/feb15/TestFlowControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session5/ForConstruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session5/ForConstruction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session5/PracticeOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session5/PracticeOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session5/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session6/AdvancedFlowControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session6/AdvancedFlowControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session6/FlowControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session6/FlowControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session6/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session6/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session6/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session6/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session7/AdvancedFlowControl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session7/AdvancedFlowControl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session7/BreakStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session7/BreakStatementExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session7/JavaCoreApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session7/JavaCoreApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session7/NestedLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session7/NestedLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session7/PracticeWithStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session7/PracticeWithStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session7/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session7/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session8/JavaCoreApiPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session8/JavaCoreApiPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session8/StringBuilderPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session8/StringBuilderPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session8/UtilityClassesPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session8/UtilityClassesPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trainer/itschool/practice/session8/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/trainer/itschool/materials/practice/session8/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,31 +177,19 @@
       <recent name="D:\ITSCHOOL2023\itschool2023\src\session" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ITSCHOOL2023\itschool2023\src\practice\shoppinglist" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src\session\session13mar\ooppractice" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src\practice\challenge\challengerazvan" />
       <recent name="D:\ITSCHOOL2023\itschool2023\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.StreamPractice">
     <configuration name="FunctionalInterfacesPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session.session27mar.FunctionalInterfacesPractice" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="session.session27mar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session23mar.Practice.Practice.GenericsPractice" />
-      <module name="itschool2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="session.session23mar.Practice.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +223,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session.session23mar.Practice.Practice.Test" />
+    <configuration name="StreamPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session30mar.StreamPractice" />
       <module name="itschool2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session.session23mar.Practice.Practice.*" />
+          <option name="PATTERN" value="session.session30mar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="session.session30mar.StreamsPractice" />
+      <module name="itschool2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="session.session30mar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamPractice" />
+        <item itemvalue="Application.StreamsPractice" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FunctionalInterfacesPractice" />
         <item itemvalue="Application.PracticeLambda" />
-        <item itemvalue="Application.GenericsPractice" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -241,12 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1679940799843</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update5">
+      <created>1680112641075</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680112641075</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <MESSAGE value="update5" />
     <MESSAGE value="update6" />
     <MESSAGE value="update7" />
     <MESSAGE value="update8" />
@@ -254,7 +378,8 @@
     <MESSAGE value="update2" />
     <MESSAGE value="update3" />
     <MESSAGE value="update4" />
-    <option name="LAST_COMMIT_MESSAGE" value="update4" />
+    <MESSAGE value="update5" />
+    <option name="LAST_COMMIT_MESSAGE" value="update5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -263,6 +388,11 @@
           <url>file://$PROJECT_DIR$/src/session/session27feb/PracticeWithList.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/session/session30mar/StreamsPractice.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
